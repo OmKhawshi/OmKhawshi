@@ -30,3 +30,7 @@
 </div>
 <!--
 <a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ok97&label=Views&color=blue&style=plastic" alt="ok97" /> </p>
