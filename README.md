@@ -8,6 +8,7 @@
 - 📫 How to reach me **omkhawshi0@gmail.com**
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 <br />
+
 ### 🚀 Languages and Tools:
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
