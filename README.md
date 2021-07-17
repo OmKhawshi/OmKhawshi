@@ -30,11 +30,7 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/ok97/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
-    </a>
-</p>
+
 <br />
 <div class="half">
   <a href=https://github.com/ok97"><img src="https://github-readme-stats.vercel.app/api?username=ok97&&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
@@ -44,7 +40,13 @@
 <a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ok97&label=Views&color=blue&style=plastic" alt="ok97" /> </p>
 
-                                                                                                               
+         <p align="center">
+    <a href="https://github.com/ok97/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
+    </a>
+</p>
+
+
 ###Connect with me:
 <p align="left">
 <a href = "linkedin.com/in/omprakashkhawshi-33b323156"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
