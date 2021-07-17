@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omprakash Khawshi</h1>
 
-## 🙋‍♂️ About Me
+ ### 🙋‍♂️ About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **ASP.NET, Angular, Design**
 - 👯 I’m looking to collaborate on **creating content!**
@@ -10,7 +10,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🚀 Languages and Tools:
 
 <code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
