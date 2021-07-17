@@ -1,53 +1,30 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omprakash Khawshi</h1>
+<h1 align="center">Hi 👋, I'm Omprakash Khawshi</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ok97&label=Profile%20views&color=0e75b6&style=flat" alt="ok97" /> </p>
 
- ### 🙋‍♂️ About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **ASP.NET, Angular, Design**
-- 👯 I’m looking to collaborate on **creating content!**
-- 📫 How to reach me **omkhawshi0@gmail.com**
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ok97" alt="ok97" /></a> </p>
 
+- 🔭 I’m currently working on **...**
 
-### 🚀 Languages and Tools:
+- 🌱 I’m currently learning ****ASP.NET, Angular, Design****
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" ></code>
-<code><img height="20" src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" ></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluent/96/000000/visual-studio-2019.png"></code>
-<code><img height="20" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png"></code>
-<br />
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+- 👯 I’m looking to collaborate on ****creating content!****
 
-<p align="center">
-    <a href="https://github.com/ok97/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
-    </a>
-</p>
-<br />
-<div class="half">
-  <a href=https://github.com/ok97"><img src="https://github-readme-stats.vercel.app/api?username=ok97&&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
-  <a href="https://github.com/ok97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&hide=Objective-C,shell,swift&title_color=0d47a1&icon_color=0d47a1&text_color=0d47a1&bg_color=fafafa&hide_border=true" height="195"></img></a>
-</div><br />
-<!--
-<a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ok97&label=Views&color=blue&style=plastic" alt="ok97" /> </p>
+- 📫 How to reach me ****omkhawshi0@gmail.com****
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ok97" alt="ok97" /></a> </p>                                                                                                               
-<h3 align="left">###Connect with me:</h3>
+- ⚡ Fun fact ****I play games and go to the GYM very often.****
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "linkedin.com/in/omprakashkhawshi-33b323156"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/OmKhawshi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/omkhawshi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/omkhawshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkhawshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omprakashkhawshi-33b323156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omprakashkhawshi-33b323156" height="30" width="40" /></a>
+<a href="https://instagram.com/omkhawshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omkhawshi" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ok97&show_icons=true&locale=en&layout=compact" alt="ok97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&locale=en" alt="ok97" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&" alt="ok97" /></p>
