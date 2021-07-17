@@ -39,14 +39,11 @@
 
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ok97" alt="ok97" /></a> </p>                   
  <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-
-
-<p align="center">
     <a href="https://github.com/ok97/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
     </a>
-</p>
-<h3 align="left">###Connect with me:</h3>
+
+## Connect with me:
 <p align="left">
 <a href = "linkedin.com/in/omprakashkhawshi-33b323156"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/OmKhawshi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
