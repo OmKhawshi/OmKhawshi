@@ -29,7 +29,9 @@
 <br />
 
 
-
+<details>
+  <img align="left" alt="Omprakash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ok97=true&hide_border=true" />
+</details>
                    
 
    
