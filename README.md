@@ -34,7 +34,8 @@
   <a href="https://github.com/ok97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&hide=Objective-C,shell,swift&title_color=0d47a1&icon_color=0d47a1&text_color=0d47a1&bg_color=fafafa&hide_border=true" height="195"></img></a>
 </div>
                    
-
+<a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ok97&label=Views&color=blue&style=plastic" alt="ok97" /> </p>
    
    <a href="https://github.com/ok97/github-readme-streak-stats">
  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
