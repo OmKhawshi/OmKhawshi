@@ -38,11 +38,11 @@
 ### 📊 My Github Stats
 <div class="half">
    <a href="https://github.com/ok97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&theme=light line_height=27" alt="Omprakash github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa& line_height=27" alt="Omprakash github stats"/>
 </a>
  
  <a href="https://github.com/ok97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&hide_langs_below=1" height="210" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_langs_below=1" height="210" />
 </a>
  
  
