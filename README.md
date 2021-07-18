@@ -38,7 +38,7 @@
 ### 📊 My Github Stats
 <div class="half">
    <a href="https://github.com/ok97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&theme=light&line_height=27" alt="Omprakash github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&theme=light&line_height=27" alt="Omprakash github stats"/>
 </a>
  
  <a href="https://github.com/ok97">
