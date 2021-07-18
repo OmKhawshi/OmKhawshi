@@ -42,7 +42,7 @@
 </a>
  
  <a href="https://github.com/ok97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_langs_below=1" height="210" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_langs_below=1" height="200" />
 </a>
  
  
