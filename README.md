@@ -40,6 +40,11 @@
    <a href="https://github.com/ok97">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&theme=light&line_height=27" alt="Omprakash github stats"/>
 </a>
+ 
+ <a href="https://github.com/ok97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&hide_langs_below=1" />
+</a>
+ 
   <a href="https://github.com/ok97"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&hide=Objective-C,shell,swift&title_color=0d47a1&icon_color=0d47a1&text_color=0d47a1&bg_color=fafafa&hide_border=true" height="195"></img></a>
 </div>
 
