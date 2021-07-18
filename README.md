@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/ok97/ok97/blob/main/developer.gif?raw=true" width="500" height="320"/></h>
- <img align="right" alt="GIF" src="https://github.com/ok97/ok97/blob/main/developer.gif?raw=true" width="500" height="320" />
+
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omprakash Khawshi</h1>
 
  ### 🙋‍♂️ About Me
