@@ -30,7 +30,7 @@
 
 
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ok97" alt="ok97" /></a> </p>                   
+                   
 
    
    <a href="https://github.com/ok97/github-readme-streak-stats">
