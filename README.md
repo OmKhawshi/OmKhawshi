@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/ok97/ok97/blob/main/developer.gif" height="80px"/></a>
+<a href="#"><img width="100%" height="175" src="https://github.com/ok97/ok97/blob/main/developer.gif" height="80px"/></a>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omprakash Khawshi</h1>
 
  ### 🙋‍♂️ About Me
