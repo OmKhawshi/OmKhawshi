@@ -39,17 +39,14 @@
 <div class="half">
    <a href="https://github.com/ok97">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff& line_height=27" alt="Omprakash github stats"/>
-</a>
- 
+</a> 
  <a href="https://github.com/ok97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff&hide_langs_below=1" height="195" />
-</a>
- 
- 
+</a> 
 </div>
 
                    
-<a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=fafafa&hide_border=true"></img>
+<a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff&hide_border=true"></img>
 </a>
 
                                                                                                                
