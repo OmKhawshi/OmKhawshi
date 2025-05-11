@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/ok97/ok97/blob/main/developer.gif?raw=true" width="500" height="320"/></h>
+<h1 align="center"><img src="https://github.com/Omkhawshi/Omkhawshi/blob/main/developer.gif?raw=true" width="500" height="320"/></h>
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Omprakash Khawshi</h1>
 
@@ -30,23 +30,23 @@
 <br />
 
 <p align="center">
- <a href="https://github.com/ok97/github-readme-streak-stats">
- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ok97&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
+ <a href="https://github.com/Omkhawshi/github-readme-streak-stats">
+ <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Omprakash Khawshi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkhawshi&theme=default-ice&hide_border=true&stroke=0000&background=white"/>
   </a>
 </p>
 
 ### 📊 My Github Stats
 <div class="half">
-   <a href="https://github.com/ok97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ok97&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff& line_height=27" alt="Omprakash github stats"/>
+   <a href="https://github.com/Omkhawshi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omkhawshi&show_icons=true&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff& line_height=27" alt="Omprakash github stats"/>
 </a> 
- <a href="https://github.com/ok97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ok97&theme=light&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff&hide_langs_below=1" height="195" />
+ <a href="https://github.com/Omkhawshi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkhawshi&theme=light&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff&hide_langs_below=1" height="195" />
 </a> 
 </div>
 
                    
-<a href="https://github.com/ok97"><img src="https://activity-graph.herokuapp.com/graph?username=ok97&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff&hide_border=true"></img>
+<a href="https://github.com/Omkhawshi"><img src="https://activity-graph.herokuapp.com/graph?username=Omkhawshi&&title_color=ff6d00&icon_color=ff6d00&text_color=000000&bg_color=ffffff&hide_border=true"></img>
 </a>
 
                                                                                                                
@@ -60,7 +60,7 @@
                                                                                                                      
 ### ❤ Views and Followers
                                                                                                                      
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ok97"></a>
-<a href="https://github.com/ok97?tab=followers"><img src="https://img.shields.io/github/followers/ok97?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Omkhawshi"></a>
+<a href="https://github.com/Omkhawshi?tab=followers"><img src="https://img.shields.io/github/followers/Omkhawshi?label=Followers&style=social" alt="GitHub Badge"></a>
                                                                                                                      
                                                                                                                      
